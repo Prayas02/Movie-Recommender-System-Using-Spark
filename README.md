@@ -1,1 +1,2 @@
 # Movie-Recommender-System-Using-Spark
+Implemented item-based collaborative filtering to find similar movies recommendations with Spark, using cosine similarity matrix algorithm. Each movie pair that is ever rated by the same user is given a cosine score and then computed  to find movies that are similar to one another. As a part of this activity we also found the most popular IMDB movies from the given dataset and the most popular superheroes using Marvel social network graph data.
